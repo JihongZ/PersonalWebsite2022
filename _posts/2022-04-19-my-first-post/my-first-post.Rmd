@@ -24,3 +24,4 @@ Learn more about using Distill at <https://rstudio.github.io/distill>.
 plot(mtcars$mpg, mtcars$cyl)
 ```
 
+Change the github page output_dir to docs
